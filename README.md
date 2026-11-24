@@ -12,15 +12,16 @@ Exercices et travaux pratiques du cours « Écrivez du code Python maintenable �
 
 ## Contenu du repository
 
-Ce repository contient les fichiers et exercices fournis par OpenClassrooms pour accompagner la formation.
+Ce repository contient les fichiers et exercices fournis par OpenClassrooms pour accompagner la formation, ainsi que mes fichiers personnels d'apprentissage.
 
 ```text
+├── cours/
 ├── exercices/
 ├── .gitignore
 └── README.md
 ```
 
-Les exercices seront réalisés progressivement au cours de la formation.
+Les fichiers d'apprentissage et les exercices sont complétés progressivement au cours de la formation.
 
 ## Technologies et outils
 
@@ -38,7 +39,7 @@ Ce repository fait partie de mon parcours de formation continue en développemen
 
 Le projet repose sur les fichiers d'exercices fournis par OpenClassrooms, dont l'historique Git d'origine a été conservé.
 
-La formation n'a pas encore commencé. Les exercices seront réalisés et les fichiers adaptés progressivement, en suivant le contenu du cours.
+La formation est en cours. Les exercices sont réalisés et les fichiers adaptés progressivement, en suivant le contenu du cours.
 
 ## Sources
 

@@ -42,7 +42,9 @@ class Card:
         return str(self)
 
     def __lt__(self, other: "Card"):
-        """compares the score of the current card with the score of another card."""
+        """Compares the score of the current card
+        with the score of another card.
+        """
         if self._rank_score != other._rank_score:
             return self._rank_score < other._rank_score
 
